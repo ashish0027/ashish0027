@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web3 architecture and DevOps
 - 💞️ I’m looking to collaborate on anything that helps me learn or boost my technical knowledge 
 - 📫 Reach me on my mail - ashishbokaria27@gmail.com
-- 😀 Or connect with me on Linkedin - https://www.linkedin.com/in/ashish-bokaria
+- 😀 Or connect with me on LinkedIn - https://www.linkedin.com/in/ashish-bokaria
 
 <!---
 ashish0027/ashish0027 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
